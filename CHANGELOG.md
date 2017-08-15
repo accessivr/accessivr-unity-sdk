@@ -1,5 +1,9 @@
 # ChangeLog
 
+## [https://github.com/accessivr/accessivr-unity-sdk/releases/tag/v1.0.0](v1.0.0)(2017-08-15)
+
+* new feature PlayerCapture
+
 ## [https://github.com/accessivr/accessivr-unity-sdk/releases/tag/v0.1.2](v0.1.2)(2017-04-10)
 
 * fix export object bug
